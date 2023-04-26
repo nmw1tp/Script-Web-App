@@ -1,13 +1,13 @@
 # Script-Web-App
 Script for automatic checking for vulnerabilities in web applications
 
-#Script for Automatic Vulnerability Testing in Web Applications
+# Script for Automatic Vulnerability Testing in Web Applications
 
 
 This Python script uses the OWASP ZAP tool for automatically checking for vulnerabilities in web applications.
 It can be used for security testing of web applications and detecting vulnerabilities that can be exploited by attackers.
 
-#Usage
+# Usage
 
 To use this script, you need to install the zapv2 library via pip and run the ZAP proxy locally (e.g., on port 8080).
 In the "target" string, you should specify the URL of the target website that you want to test for vulnerabilities.
